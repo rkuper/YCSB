@@ -3,6 +3,7 @@ target
 
 # ignore output files from testing
 output*
+ps.out
 
 # ignore standard Eclipse files
 .project
@@ -23,3 +24,4 @@ output*
 # ignore standard Mac OS X files/dirs
 .DS_Store
 /differentbin/
+

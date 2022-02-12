@@ -1,0 +1,10 @@
+recordcount=1500000
+operationcount=7500000
+fieldcount=10
+fieldlength=500
+requestdistribution=zipfian
+insertorder=ordered
+maxscanlength=1000
+scanlengthdistribution=uniform
+hdrhistogram.percentiles=50,75,90,95,99,99.9,99.99
+threadcount=10

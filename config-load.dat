@@ -1,5 +1,5 @@
-recordcount=2000000
-operationcount=10000000
+recordcount=4000000
+operationcount=15000000
 fieldcount=10
 fieldlength=500
 requestdistribution=zipfian
